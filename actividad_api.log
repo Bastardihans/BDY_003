@@ -1,0 +1,15 @@
+2026-11-13 19:36:08,516 [INFO] Conexión exitosa entre API Flask y MongoDB Atlas.
+2026-11-13 19:36:08,538 [INFO] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-11-13 19:36:08,538 [INFO] Press CTRL+C to quit
+2026-11-13 19:37:17,045 [INFO] GET /api/publicaciones | Filtro: {'categoria': 'Tecnología'} | Retornados: 5
+2026-11-13 19:37:17,045 [INFO] 127.0.0.1 - - [13/Nov/2026 19:37:17] "GET /api/publicaciones?categoria=Tecnología HTTP/1.1" 200 -
+2026-11-13 19:37:37,871 [INFO] POST /api/publicaciones exitoso: Documento 'pub_api_01' creado.
+2026-11-13 19:37:37,872 [INFO] 127.0.0.1 - - [13/Nov/2026 19:37:37] "POST /api/publicaciones HTTP/1.1" 201 -
+2026-11-13 19:45:11,197 [INFO] Conexión exitosa entre API Flask y MongoDB Atlas.
+2026-11-13 19:45:11,205 [INFO] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-11-13 19:45:11,206 [INFO] Press CTRL+C to quit
+2026-11-13 19:45:19,877 [INFO] 127.0.0.1 - - [13/Nov/2026 19:45:19] "GET / HTTP/1.1" 404 -
+2026-11-13 19:45:19,902 [INFO] 127.0.0.1 - - [13/Nov/2026 19:45:19] "GET /favicon.ico HTTP/1.1" 404 -
+2026-11-13 19:45:57,040 [INFO] 127.0.0.1 - - [13/Nov/2026 19:45:57] "GET /api/estado](http://127.0.0.1:5000/api/estado HTTP/1.1" 404 -
